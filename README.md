@@ -1,3 +1,2 @@
-# algs4-javaDemo-
-algs4(javaDemo)
-my test
+《算法》的输入操作到现在还没搞懂，需要时间看一看里面的代码，但工作有时候又忙的要命！
+Hard...
