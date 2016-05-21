@@ -1,3 +1,3 @@
 《算法》学习过程中，在eclipse里调试时，对于官方提供的源码中标准输入的操作，没有搞懂
-自己改了一下，直接读取本地测试数据测试数据可在http://algs4.cs.princeton.edu/code/下载 algs4-data.zip
+自己改了一下，直接读取本地测试数据测试数据可在http://algs4.cs.princeton.edu/code/ 下载 algs4-data.zip
 如果各位如有直接调试官方代码的经验，还望留言865568125@qq.com，不胜感激！
